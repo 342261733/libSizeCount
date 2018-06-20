@@ -1,5 +1,5 @@
 
-## linkmap使用介绍
+## 统计项目lib(.a)的大小linkmap使用介绍
 
 作者：
 bang大神
